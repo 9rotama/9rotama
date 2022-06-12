@@ -1,4 +1,4 @@
-# Hi
+# Hi!
 ## I'm 9rotama, a CS student
 ## What I am studying 
  - Front-end dev 
