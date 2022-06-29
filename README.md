@@ -1,7 +1,7 @@
 ### hi there 👋
 *i'm 9rotama, a CS student*
 
-## what i am studying 
+## what i am learning 
  - front-end dev (react)
  - game dev (unity)
  - UI/UX design
