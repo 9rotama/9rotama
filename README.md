@@ -1,5 +1,5 @@
 ### hi there 👋
-*i'm 9rotama, a CS student*
+*i'm meg(9rotama), a CS student*
 
 ## what i am learning 
  - front-end dev (react)
