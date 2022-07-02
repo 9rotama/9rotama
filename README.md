@@ -14,7 +14,7 @@ https://booth.pm/ja/items/2059942<br>
 ## likes
  - playing rhythm games(arcaea, jubeat, BMS)
  - playing games on pc (sometimes i play minecraft and vrc)
- - non-human adorable characters
+ - non-human adorable/cool characters
  - softwares that takes advantage of UI/UX design trends
 
 ## links
