@@ -1,7 +1,7 @@
 ### hi there 👋
 *i'm meg(9rotama), a CS student*
 
-![VRChat_1920x1080_2021-10-04_01-24-19 517](https://user-images.githubusercontent.com/65887771/177005187-7c276b1a-8058-4270-9b29-cd14a09ced31.png)
+![VRChat_1920x1080_2021-10-04_01-24-19 517](https://user-images.githubusercontent.com/65887771/177005187-7c276b1a-8058-4270-9b29-cd14a09ced31.png)<br>
 the name of this cute avatar is "bukuro"<br>
 this is the first avatar i used in vrc!<br>
 https://booth.pm/ja/items/2059942<br>
