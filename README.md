@@ -6,14 +6,16 @@ the name of this cute avatar is "bukuro"<br>
 this is the first avatar i used in vrc!<br>
 https://booth.pm/ja/items/2059942<br>
 
-## what i am learning 
+## i am learning 
  - front-end dev (react)
  - game dev (unity)
  - UI/UX design
 
-[![９rotama's GitHub stats](https://github-readme-stats.vercel.app/api?username=9rotama&theme=dracula)](https://github.com/9rotama/github-readme-stats)
-
-[![9rotama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9rotama&theme=dracula&layout=compact)](https://github.com/9rotama/github-readme-stats)
+## likes
+ - playing rhythm games(arcaea, jubeat, BMS)
+ - playing games on pc (sometimes i play minecraft and vrc)
+ - non-human adorable characters
+ - softwares that takes advantage of UI/UX design trends
 
 ## links
 | desc | link |
@@ -22,3 +24,6 @@ https://booth.pm/ja/items/2059942<br>
 | itch.io | https://9rotama.itch.io/ |
 | graphics works | https://drive.google.com/drive/u/2/folders/1gOM3VzAkHeZK05HKfPlGGLTR5jneGcgQ |
 
+[![９rotama's GitHub stats](https://github-readme-stats.vercel.app/api?username=9rotama&theme=dracula)](https://github.com/9rotama/github-readme-stats)
+
+[![9rotama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9rotama&theme=dracula&layout=compact)](https://github.com/9rotama/github-readme-stats)
