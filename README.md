@@ -7,8 +7,8 @@ this is the first avatar i used in vrc!<br>
 https://booth.pm/ja/items/2059942<br>
 
 ## i am learning 
- - front-end dev (react)
- - game dev (unity)
+ - front-end dev (react, next, ts)
+ - game dev (unity, siv3d)
  - UI/UX design
 
 ## likes
